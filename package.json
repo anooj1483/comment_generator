@@ -1,0 +1,27 @@
+{
+  "name": "comment_generator",
+  "version": "1.0.0",
+  "description": "This package helps to create custom comment section for your source code. You can easily add Company copyright related comments section at top of each file in your source code.",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anooj1483/comment_generator.git"
+  },
+  "keywords": [
+    "comments",
+    "generator",
+    "comment-generator",
+    "source-code",
+    "company-copyrights",
+    "copyright"
+  ],
+  "author": "Anooj Krishnan G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anooj1483/comment_generator/issues"
+  },
+  "homepage": "https://github.com/anooj1483/comment_generator#readme"
+}
